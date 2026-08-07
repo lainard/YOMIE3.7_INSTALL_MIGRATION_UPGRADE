@@ -73,7 +73,7 @@ Log out and back in after installation for group changes to take effect.
 
 ```bash
 # 1. Clone the repository
-git clone <repo-url> YomieCRM
+git clone https://github.com/lainard/YomieCRM7.4 YomieCRM
 cd YomieCRM
 
 # 2. Start all services (passwords auto-generated on first run)
